@@ -3,7 +3,7 @@
 print("Hallo")
 
 # Ich ändere jetzt die Datei und füge etwas hinzu
-print("Jetzt provoziere ich mal was")
+print("Hier ist eine Änderung zum normalen zaehlen branch")
 
 # Und hier kommt noch was neues
 for i in range(0, 11):
